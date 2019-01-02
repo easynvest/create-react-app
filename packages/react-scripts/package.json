@@ -1,5 +1,5 @@
 {
-  "name": "easynvest-react-scripts",
+  "name": "@easynvest/react-scripts",
   "version": "2.1.2",
   "description": "Easynvest Configuration and scripts for Create React App.",
   "repository": "easynvest/create-react-app",
